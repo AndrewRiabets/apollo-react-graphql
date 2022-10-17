@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/apollo-react-graphql/static/js/main.fc062e58.chunk.js",
+    "main.js.map": "/apollo-react-graphql/static/js/main.fc062e58.chunk.js.map",
+    "runtime-main.js": "/apollo-react-graphql/static/js/runtime-main.c488bda3.js",
+    "runtime-main.js.map": "/apollo-react-graphql/static/js/runtime-main.c488bda3.js.map",
+    "static/js/2.a9cc9ce6.chunk.js": "/apollo-react-graphql/static/js/2.a9cc9ce6.chunk.js",
+    "static/js/2.a9cc9ce6.chunk.js.map": "/apollo-react-graphql/static/js/2.a9cc9ce6.chunk.js.map",
+    "index.html": "/apollo-react-graphql/index.html",
+    "static/js/2.a9cc9ce6.chunk.js.LICENSE.txt": "/apollo-react-graphql/static/js/2.a9cc9ce6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c488bda3.js",
+    "static/js/2.a9cc9ce6.chunk.js",
+    "static/js/main.fc062e58.chunk.js"
+  ]
+}
