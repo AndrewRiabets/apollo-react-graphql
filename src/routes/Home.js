@@ -62,7 +62,7 @@ export default () => {
   return (
     <Container>
       <Header>
-        <Title>Apollo 2021</Title>
+        <Title>Andrew Riabts</Title>
         <Subtitle>База фильмов на React, Apollo, GraphQL</Subtitle>
       </Header>
       {loading && <Loading>Загрузка...</Loading>}
